@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## NAME: Singamala Rakshitha
-## REG.NO: 212222060245
+## NAME: Sanjay M
+## REG.NO: 212222110038
 ## AIM
 To study and implement subqueries and views.
 
