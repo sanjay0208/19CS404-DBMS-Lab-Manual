@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name: Singamala Rakshitha
-## Reg.No: 212222060245
+## Name: Sanjay M
+## Reg.No: 212222110038
 
 ## AIM
 To study and implement different types of joins.
