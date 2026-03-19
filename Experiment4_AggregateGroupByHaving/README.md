@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME: Singamala Rakshitha
-## REG.NO: 212222060245
+## NAME: Sanjay M
+## REG.NO: 212222110038
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
